@@ -9,7 +9,6 @@ ter python3 instalado na máquina e WGET em um terminal
 python3 CF.py
 ```
 ## funcionou com sucesso em:
--[Termux](https://github.com/termux/termux-app)
--terminais Linux
+[Termux](https://github.com/termux/termux-app) e terminais Linux
 ## problemas ainda não resolvidos
 por algum motivo, no windows mesmo possuindo o WGET no cmd, os arquivos são encontrados mas não baixados
