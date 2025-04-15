@@ -3,7 +3,7 @@ pequeno script escrito em python que procura por arquivos na URL com prefixo htt
 ## descrição
 usando combinações randômicas baseados em um padrão(RE:[a-z0-9]{6} ou string de 6 caracteres usando letras minúsculas do alfabeto e números de 0 à 9) o script tenta combinações de URL e formato de arquivos com o WGET, quando a URL é válida o arquivo é baixado.
 ## requisitos
-ter python3 instalado na máquina e WGET em um terminal
+ter python3 e WGET em um terminal
 ## execução
 ```bash
 python3 CF.py
