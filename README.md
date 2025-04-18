@@ -12,3 +12,18 @@ python3 CF.py
 [Termux](https://github.com/termux/termux-app) e terminais Linux
 ## problemas ainda não resolvidos
 por algum motivo, no windows mesmo possuindo o WGET no cmd, os arquivos são encontrados mas não baixados
+## estatísticas dos arquivos encontrados
+UNIVERSO: 170
+|TIPO|QUANTIDADE|PORCENTAGEM|
+|:-:|:-:|:-:|
+|memes|3|1.76%|
+|porno|30|17.65%|
+|gore|4|2.35%|
+|porno ilegal|1|0.59%|
+|criminoso|1|0.59%|
+|outros|131|77.06%|
+
+gore:pode se referir tanto ao gore em si como com conteúdo violento
+porno ilegal: se refere à pornografia ilegal(cp, necrofilia, estupro, etc.) encontrada
+criminoso: se refere à conteúdo proveniente de atividades criminosas(clonagem de cartão, neonazismo, hacking, etc.)
+outros: se refere à conteúdo que não se encaixa em nenhuma categoria anterior(elementos de página, imagens aleatórias sem contexto, fanarts, etc.)
